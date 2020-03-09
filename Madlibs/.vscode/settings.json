@@ -1,3 +1,6 @@
-"emmet.includeLanguages": {
-  "razor": "html",
+{
+  "emmet.includeLanguages": {
+    "razor": "html",
+    "aspnetcorerazor": "html"
+  }
 }
